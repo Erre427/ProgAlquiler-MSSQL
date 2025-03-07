@@ -47,14 +47,45 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Alquileres.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alquileres.Designer.cs">
+      <DependentUpon>Alquileres.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Autoscs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Autoscs.Designer.cs">
+      <DependentUpon>Autoscs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clientes.Designer.cs">
+      <DependentUpon>Clientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Empresas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Empresas.Designer.cs">
+      <DependentUpon>Empresas.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Oficinas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Oficinas.Designer.cs">
+      <DependentUpon>Oficinas.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SQLConnect.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
@@ -82,7 +113,34 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Resources\" />
+    <None Include="Resources\arrow_12959560.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\car_6401936.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download_16105045.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\office-building.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\office-building %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\office-building %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\transport.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\staff.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
