@@ -133,8 +133,14 @@
   <data name="office-building" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\office-building.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="staff" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\staff.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="arrow_12959560" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\arrow_12959560.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="compose" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\compose.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="download_16105045" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\download_16105045.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -145,7 +151,7 @@
   <data name="Logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\car_6401936.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="staff" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\staff.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="back" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\back.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

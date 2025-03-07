@@ -18,3 +18,14 @@ D:\programacion\Proyectos\ALQUILER\obj\Debug\ALQUILER.csproj.GenerateResource.ca
 D:\programacion\Proyectos\ALQUILER\obj\Debug\ALQUILER.csproj.CoreCompileInputs.cache
 D:\programacion\Proyectos\ALQUILER\obj\Debug\ALQUILER.exe
 D:\programacion\Proyectos\ALQUILER\obj\Debug\ALQUILER.pdb
+C:\Users\Marcos Daniel\Documents\Universidad\Topicos\ALQUILER\ProgAlquiler-MSSQL\bin\Debug\ALQUILER.exe.config
+C:\Users\Marcos Daniel\Documents\Universidad\Topicos\ALQUILER\ProgAlquiler-MSSQL\bin\Debug\ALQUILER.exe
+C:\Users\Marcos Daniel\Documents\Universidad\Topicos\ALQUILER\ProgAlquiler-MSSQL\bin\Debug\ALQUILER.pdb
+C:\Users\Marcos Daniel\Documents\Universidad\Topicos\ALQUILER\ProgAlquiler-MSSQL\obj\Debug\ALQUILER.csproj.AssemblyReference.cache
+C:\Users\Marcos Daniel\Documents\Universidad\Topicos\ALQUILER\ProgAlquiler-MSSQL\obj\Debug\ALQUILER.Empresas.resources
+C:\Users\Marcos Daniel\Documents\Universidad\Topicos\ALQUILER\ProgAlquiler-MSSQL\obj\Debug\ALQUILER.Form1.resources
+C:\Users\Marcos Daniel\Documents\Universidad\Topicos\ALQUILER\ProgAlquiler-MSSQL\obj\Debug\ALQUILER.Properties.Resources.resources
+C:\Users\Marcos Daniel\Documents\Universidad\Topicos\ALQUILER\ProgAlquiler-MSSQL\obj\Debug\ALQUILER.csproj.GenerateResource.cache
+C:\Users\Marcos Daniel\Documents\Universidad\Topicos\ALQUILER\ProgAlquiler-MSSQL\obj\Debug\ALQUILER.csproj.CoreCompileInputs.cache
+C:\Users\Marcos Daniel\Documents\Universidad\Topicos\ALQUILER\ProgAlquiler-MSSQL\obj\Debug\ALQUILER.exe
+C:\Users\Marcos Daniel\Documents\Universidad\Topicos\ALQUILER\ProgAlquiler-MSSQL\obj\Debug\ALQUILER.pdb

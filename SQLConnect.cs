@@ -10,17 +10,14 @@ namespace ALQUILER
 {
     public class SQLConnect
     {
+        static string EXPRESS = @"server=.\SQLEXPRESS; Initial Catalog=ALQUILER; integrated security=true";
+        static string DEV = @"Server=localhost;Database=ALQUILER;Trusted_Connection=True;";
         public static SqlConnection ObtenerConexion()
         {
-            try
-            {
-                return new SqlConnection(@"server=.\SQLEXPRESS; Initial Catalog=ALQUILER; integrated security=true");
-            }
-            catch (Exception)
-            {
-                return new SqlConnection(@"Server=localhost;Database=ALQUILER;Trusted_Connection=True;");
-            }
+                return new SqlConnection(DEV);
         }
+
+        
 
     }
 }

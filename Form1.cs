@@ -13,8 +13,7 @@ namespace ALQUILER
 {
     public partial class Form1 : Form
     {
-        // Instancia de clase para conectarse a la base de datos sql
-        SqlConnection conexion = SQLConnect.ObtenerConexion();
+        
 
         public Form1()
         {
@@ -59,6 +58,11 @@ namespace ALQUILER
             formClientes.Show();
             formClientes.Location = this.Location;
             this.Hide();
+        }
+
+        private void Form1_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            Application.Exit();
         }
     }
 }
