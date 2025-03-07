@@ -1,0 +1,10 @@
+C:\Users\Marcos Daniel\Documents\Universidad\Topicos\ALQUILER\bin\Debug\ALQUILER.exe.config
+C:\Users\Marcos Daniel\Documents\Universidad\Topicos\ALQUILER\bin\Debug\ALQUILER.exe
+C:\Users\Marcos Daniel\Documents\Universidad\Topicos\ALQUILER\bin\Debug\ALQUILER.pdb
+C:\Users\Marcos Daniel\Documents\Universidad\Topicos\ALQUILER\obj\Debug\ALQUILER.csproj.AssemblyReference.cache
+C:\Users\Marcos Daniel\Documents\Universidad\Topicos\ALQUILER\obj\Debug\ALQUILER.Form1.resources
+C:\Users\Marcos Daniel\Documents\Universidad\Topicos\ALQUILER\obj\Debug\ALQUILER.Properties.Resources.resources
+C:\Users\Marcos Daniel\Documents\Universidad\Topicos\ALQUILER\obj\Debug\ALQUILER.csproj.GenerateResource.cache
+C:\Users\Marcos Daniel\Documents\Universidad\Topicos\ALQUILER\obj\Debug\ALQUILER.csproj.CoreCompileInputs.cache
+C:\Users\Marcos Daniel\Documents\Universidad\Topicos\ALQUILER\obj\Debug\ALQUILER.exe
+C:\Users\Marcos Daniel\Documents\Universidad\Topicos\ALQUILER\obj\Debug\ALQUILER.pdb
